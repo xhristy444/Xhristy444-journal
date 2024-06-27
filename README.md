@@ -17,4 +17,4 @@ Test
 `code`
 ---
 [title](https://www.example.com)
-![alt text](image.jpg)
+![alt text](https://github.com/xhristy444/Xhristy444-journal/blob/main/the%20oa.jpg)
